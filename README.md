@@ -28,7 +28,7 @@ Welcome to Olé Andalucía, where you can experience the flavors of Andalusia ri
 
  
 
-## 1.99 JD
+- 1.99 JD
 
 
 
@@ -44,7 +44,7 @@ Welcome to Olé Andalucía, where you can experience the flavors of Andalusia ri
 
  
 
-## 4.99 JD
+- 4.99 JD
 
 
 
@@ -57,7 +57,7 @@ Welcome to Olé Andalucía, where you can experience the flavors of Andalusia ri
 
 
 
-## 6.99 JD
+- 6.99 JD
 
 
 
@@ -70,7 +70,7 @@ Welcome to Olé Andalucía, where you can experience the flavors of Andalusia ri
 
  
 
-## 3.99 JD
+- 3.99 JD
 
 
 
@@ -85,11 +85,11 @@ Welcome to Olé Andalucía, where you can experience the flavors of Andalusia ri
 
  
 
- ## Migas
+## Migas
 
  
 
- ## 3.50 JD
+- 3.50 JD
 
 
 
@@ -109,7 +109,7 @@ Welcome to Olé Andalucía, where you can experience the flavors of Andalusia ri
 
 
 
-## 1.50 JD
+- 1.50 JD
 
 
 
@@ -129,6 +129,6 @@ Welcome to Olé Andalucía, where you can experience the flavors of Andalusia ri
 
 
 
-## 1.99 JD
+- 1.99 JD
 
 
