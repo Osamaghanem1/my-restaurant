@@ -10,10 +10,10 @@
 <br>
 
 # MENU
+<br>
 
 
-
-
+<center>
 
  ## Soup
 
@@ -36,7 +36,7 @@
   ## the Maine plate
  <br>
 
- ![Rabo de toro](https://spanishsabores.com/wp-content/uploads/2013/01/DSC09636.jpg)
+ ![Rabo de toro](https://www.hogarmania.com/archivos/202102/karl6699-rabo-toro-xl-668x400x80xX-1.jpg)
 
 <center>
 
@@ -98,7 +98,7 @@
 <br>
 <br>
  
-  ## Appetizers 
+ > ## Appetizers 
  <br>
  
 <center>
