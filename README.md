@@ -12,16 +12,16 @@
 # MENU
 <br>
 
-<center> 
+
 
 > ## Soup
 
-<center>
+
 
 
  ![Gazpacho](https://hips.hearstapps.com/hmg-prod/images/delish-190606-gazpacho-269-landscape-pf-1560544275.jpg?crop=0.8891228070175439xw:1xh;center,top&resize=1200:*)
 
-<center>
+
 
 ## Gazpacho
 
