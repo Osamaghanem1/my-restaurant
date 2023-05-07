@@ -13,6 +13,7 @@
 <br>
 
 
+<center>
 
  ## Soup
 
@@ -32,7 +33,7 @@
 <br>
 <br>
 
- > ## the Maine plate
+  ## the Maine plate
  <br>
 
  ![Rabo de toro](https://spanishsabores.com/wp-content/uploads/2013/01/DSC09636.jpg)
@@ -97,7 +98,7 @@
 <br>
 <br>
  
- > ## Appetizers 
+  ## Appetizers 
  <br>
  
 <center>
