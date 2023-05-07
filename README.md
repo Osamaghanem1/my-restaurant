@@ -15,7 +15,7 @@ Welcome to Olé Andalucía, where you can experience the flavors of Andalusia ri
 
 
 
- ## Soup
+## Soup
 
 
 
@@ -28,23 +28,23 @@ Welcome to Olé Andalucía, where you can experience the flavors of Andalusia ri
 
  
 
- ## 1.99 JD
+## 1.99 JD
 
 
 
 
-  ## the Maine plate
+## the Maine plate
  
 
  ![Rabo de toro](https://www.hogarmania.com/archivos/202102/karl6699-rabo-toro-xl-668x400x80xX-1.jpg)
 
 
 
- ## Rabo de toro
+## Rabo de toro
 
  
 
- ## 4.99 JD
+## 4.99 JD
 
 
 
@@ -53,11 +53,11 @@ Welcome to Olé Andalucía, where you can experience the flavors of Andalusia ri
  ![Rabo de toro](https://www.tastingtable.com/img/gallery/classic-seafood-paella-recipe/intro-1640888240.jpg)
 
 
- ## Paella
+## Paella
 
 
 
- ## 6.99 JD
+## 6.99 JD
 
 
 
@@ -66,11 +66,11 @@ Welcome to Olé Andalucía, where you can experience the flavors of Andalusia ri
  ![Espetos](https://previews.123rf.com/images/barmalini/barmalini1911/barmalini191100184/133062425-sardines-espeto-malaga-style-fish-on-stick-barbecue-prepared-on-olive-tree-firewoods-on-beach.jpg)
 
 
- ## Espetos
+## Espetos
 
  
 
- ## 3.99 JD
+## 3.99 JD
 
 
 
@@ -95,7 +95,7 @@ Welcome to Olé Andalucía, where you can experience the flavors of Andalusia ri
 
 
  
-  ## Appetizers 
+## Appetizers 
 
  
 
@@ -109,7 +109,7 @@ Welcome to Olé Andalucía, where you can experience the flavors of Andalusia ri
 
 
 
- ## 1.50 JD
+## 1.50 JD
 
 
 
@@ -129,6 +129,6 @@ Welcome to Olé Andalucía, where you can experience the flavors of Andalusia ri
 
 
 
- ## 1.99 JD
+## 1.99 JD
 
 
