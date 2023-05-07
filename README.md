@@ -13,7 +13,7 @@
 <br>
 
 
-
+<center>
 
  ## Soup
 
@@ -26,7 +26,7 @@
 
 ## Gazpacho
 
- 
+ <center>
 
  ## 1.99 JD
 
@@ -38,11 +38,11 @@
 
  ![Rabo de toro](https://spanishsabores.com/wp-content/uploads/2013/01/DSC09636.jpg)
 
-
+<center>
 
  ## Rabo de toro
 
- 
+ <center>
 
  ## 4.99 JD
 
@@ -52,11 +52,11 @@
 
  ![Rabo de toro](https://www.tastingtable.com/img/gallery/classic-seafood-paella-recipe/intro-1640888240.jpg)
 
-
+ <center>
 
  ## Paella
 
- 
+ <center>
 
  ## 6.99 JD
 
@@ -66,11 +66,11 @@
 
  ![Espetos](https://previews.123rf.com/images/barmalini/barmalini1911/barmalini191100184/133062425-sardines-espeto-malaga-style-fish-on-stick-barbecue-prepared-on-olive-tree-firewoods-on-beach.jpg)
 
-
+<center>
 
  ## Espetos
 
-
+ <center>
 
  ## 3.99 JD
 
@@ -85,11 +85,11 @@
 
  ![Migas](https://visitsouthernspain.com/wp-content/uploads/2020/05/Canva-Spanish-Migas-with-Pork-and-Green-Onion-in-Wooden-Bowl-on-White.jpg.webp)
 
- 
+ <center>
 
  ## Migas
 
- 
+ <center>
 
  ## 3.50 JD
 
@@ -101,16 +101,16 @@
   ## Appetizers 
  <br>
  
-
+<center>
 
 
  ![Croquetaswhite ](https://blog.amigofoods.com/wp-content/uploads/2019/07/Spanish-croquette.jpg)
 
-
+<center>
 
 ## Croquetaswhite 
 
- 
+ <center>
 
  ## 1.50 JD
 
@@ -122,16 +122,16 @@
 
  
  
-
+<center>
 
 
  ![Ensalada malagueña ](https://recetasdecocina.elmundo.es/wp-content/uploads/2023/03/receta-ensalada-malaguena.jpg)
 
-
+<center>
 
 ## Ensalada malagueña 
 
-
+ <center>
 
  ## 1.99 JD
 
