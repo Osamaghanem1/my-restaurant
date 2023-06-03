@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .header {
+    display: flex;
+    background-color: #0c0c0c;
+    text-align: left;
+    margin-bottom: 20px;
+    padding: 20px;
+    padding-left: 40px;
+    color: #fff;
+   
+    align-items: center;
+
+   }
+
+
+ .header ul {
+ margin-left: 500px;
+ }
+
+ .header h2 { 
+  font-size: 25px ;
+ }
+
+  ul {
+    list-style: none;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+
+  ul li {
+    display: inline-block;
+    margin-right: 20px;
+    
+  }
+  
+  ul li a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 5px 10px;
+    border: 1px solid #ffffff;
+    border-radius: 4px;
+  }
+  
+  ul li a:hover {
+    background-color: #333;
+    color: #fff;
+  }
+
+  .body {
+    display: flex;
+    background-color: #0c0c0c;
+    text-align: left;
+    align-items: center;
+  }
+  
+.welcome {
+  background-color: #0c0c0c;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  font-size: 25px;
+  color: #fff;
+  text-decoration: none;
+  font-family: 'Italiana', serif;
+
+}
+
+  body {
+    font-family: 'Playfair Display', serif;
+    background-color: #ffffff;
+    line-height: 1.5;
+  }
+
+  p {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  h3 {
+    margin-top: 60px;
+  }
+  
+ 
+  body .soub {
+    display: flex;
+    background-color: #0c0c0c;
+    justify-content: space-around;
+    margin: 5px 5px;
+    align-items: center;
+    font-size: 30px;
+    color: #fff;
+    
+  }
+ 
+  body .Rabo {
+    display: flex;
+    background-color: #0c0c0c;
+    justify-content: space-around;
+    margin: 5px 5px;
+    align-items: center;
+    font-size: 30px;
+    color: #fff;
+    
+  }
+  
+  body .Espetos {
+    display: flex;
+    background-color: #0c0c0c;
+    justify-content: space-around;
+    margin: 5px 5px;
+    align-items: center;
+    font-size: 30px;
+    color: #fff;
+    
+  }
+
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  footer span {
+    font-size: 14px;
+  }
+
+
+  
